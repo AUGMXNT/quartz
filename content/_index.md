@@ -8,3 +8,4 @@ We'll be using this to publish information on [perfi](/perfi) and other defi rel
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
 
 - [perfi Notes](/perfi)
+- [DeFi Notes](/defi)
