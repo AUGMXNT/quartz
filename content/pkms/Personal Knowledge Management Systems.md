@@ -8,21 +8,25 @@ title: Personal Knowledge Management Systems
 * Selective Publishing
 * Collaborative Features
 
-## Open Source
-* [Logseq](https://logseq.com/)
-	* Pros
-	* Cons
-* [Trilium](https://github.com/zadam/trilium)
-	* Pros
-	* Cons
-* [BookStack](https://www.bookstackapp.com/)
-	* Pros
-	* Cons
-* [Wiki.js](https://js.wiki/)
-	* Pros
-	* Cons
+## Existing Apps
 
-## Commercial
+### Open Source
+
+#### [Logseq](https://logseq.com/)
+* Pros
+* Cons
+
+#### [Trilium](https://github.com/zadam/trilium)
+* Pros
+* Cons
+
+ #### [BookStack](https://www.bookstackapp.com/)
+* Pros
+* Cons
+
+#### [Wiki.js](https://js.wiki/)
+* Pros
+* Cons
 
 ### Freemium
 
