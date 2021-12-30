@@ -15,6 +15,13 @@ title: Personal Knowledge Management Systems
 
 # Commercial
 ## Freemium
-* [Notion](https://www.notion.so/)
 * [Obsidian](https://obsidian.md/)
+	* Pros
+		* Very Fast
+		* Local Storage
+		* [Plugins](https://obsidian.md/plugins)!
+	* Cons
+		* Very expensive publishing and syncing subscriptions, but easy to use [Obsidian Git](https://github.com/denolehov/obsidian-git) and [Quartz](https://github.com/jackyzha0/quartz) for versioning, sync, and publishing
+		* 
 * [Outline](https://www.getoutline.com/) (Open Source)
+* [Notion](https://www.notion.so/)
