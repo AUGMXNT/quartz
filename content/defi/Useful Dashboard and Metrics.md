@@ -11,3 +11,7 @@ Stablecoin Market Cap
 https://coinmarketcap.com/view/stablecoin/
 https://www.coingecko.com/en/categories/stablecoins
 https://coincodex.com/cryptocurrencies/sector/stablecoins/
+
+https://ethtps.info/
+https://l2beat.com/
+https://l2fees.info/
