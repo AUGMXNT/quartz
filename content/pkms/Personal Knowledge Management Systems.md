@@ -14,7 +14,9 @@ title: Personal Knowledge Management Systems
 
 #### [Logseq](https://logseq.com/)
 * Pros
+	* Very Fast
 * Cons
+	* Everything's an outline
 
 #### [Trilium](https://github.com/zadam/trilium)
 * Pros
