@@ -10,6 +10,7 @@ title: Personal Knowledge Management Systems
 # Open Source
 * [Logseq](https://logseq.com/)
 * [Trilium](https://github.com/zadam/trilium)
+* [BookStack](https://www.bookstackapp.com/)
 
 # Commercial
 ## Freemium
