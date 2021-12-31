@@ -3,6 +3,7 @@
 ### PyQt
 https://www.riverbankcomputing.com/software/pyqt/
 https://doc.qt.io/qt-6/deployment-android.html
+https://felgo.com/
 
 ### Tauri
 https://github.com/tauri-apps/tauri
