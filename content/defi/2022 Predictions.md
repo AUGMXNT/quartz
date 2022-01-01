@@ -12,10 +12,10 @@ Plays
 	* FXS
 	* CVX
 	* CRV
-* Options
 	* DPX
 * Blockspace
-	* 
+	* ATOM
+	* zkSync
 
 ## Risks
 * Macro
