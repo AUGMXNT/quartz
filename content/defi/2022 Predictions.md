@@ -13,9 +13,12 @@ Plays
 	* CVX
 	* CRV
 	* DPX
-* Blockspace
+* Blockspace (L1, L2)
 	* ATOM
+	* NEAR/AURORA
+	* METIS
 	* zkSync
+	* ALGO
 
 ## Risks
 * Macro
