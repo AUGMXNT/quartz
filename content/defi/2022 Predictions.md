@@ -11,13 +11,15 @@ title: "2022 Predictions"
 * DAO experiments
 * Private Transactions
 
-## Current Plays
+## 2022 Plays
 * Income generation
-	* FXS
-	* CVX
-	* CRV - generate stablecoins from cvxCRV
-	* DPX - also a good way of generating free yield if you would sell anyway
-* Blockspace (L1, L2s that haven't pumped yet)
+	* Ethereum Mainnet
+		* FXS -> cvxFXS
+		* CVX -> vlCVX
+		* CRV -> cvxCRV
+	* Arbitrum
+		* DPX - also a good way of generating free yield on ETH you would sell anyway
+* Blockspace (L1, L2s that haven't fully pumped yet)
 	* MATIC
 	* ATOM
 	* NEAR/AURORA
@@ -30,7 +32,7 @@ title: "2022 Predictions"
 	* CRV
 
 ## Risks
-* Macro
+* Macro (hedged via income generation and stablecoin plays)
 * Regulation
 	* https://twitter.com/moo9000/status/1476827340940455939
 
