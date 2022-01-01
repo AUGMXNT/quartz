@@ -8,7 +8,8 @@ title: "2022 Predictions"
 		* Still thinking about https://www.youtube.com/watch?v=m_2fDTuh5aU
 * Income generation, incentive control
 * Stablecoins
-* DAO experiments
+* DAO experiments & Utility NFTs
+	* https://twitter.com/Flynnjamm/status/1476582725691789315
 * Private Transactions
 
 ## 2022 Plays
