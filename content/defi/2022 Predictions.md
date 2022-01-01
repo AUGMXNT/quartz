@@ -1,6 +1,16 @@
 * Continued demand for blockspace
 	* alt-L1 to L2 plays
-		* 
+
+Plays
+
+* Income generation
+	* FXS
+	* CVX
+	* CRV
+* Options
+	* DPX
+* Blockspace
+	* 
 
 
 0xJim:
