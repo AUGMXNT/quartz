@@ -2,12 +2,14 @@
 title: "2022 Predictions"
 ---
 
+## Areas of Interest
 * Continued demand for blockspace
 	* alt-L1 to L2 plays
 		* Still thinking about https://www.youtube.com/watch?v=m_2fDTuh5aU
 * Income generation, incentive control
 * Stablecoins
-* Most interesting area: DAOs
+* DAO experiments
+* Private Transactions
 
 ## Current Plays
 * Income generation
