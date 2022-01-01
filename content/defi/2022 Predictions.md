@@ -37,6 +37,10 @@ title: "2022 Predictions"
 	* https://twitter.com/moo9000/status/1476827340940455939
 
 ## Other Takes
+### David Phelps
+https://twitter.com/divine_economy/status/1476655981362831360
+https://twitter.com/divine_economy/status/1476996478015000581
+
 ### 0xJim
 https://jim.mirror.xyz/eW8O258nflwIRo-MKR5u2ipGgoDdT_KOAQAIhK0Iu5M
 
