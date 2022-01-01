@@ -4,21 +4,23 @@ title: "2022 Predictions"
 
 * Continued demand for blockspace
 	* alt-L1 to L2 plays
+		* Still thinking about https://www.youtube.com/watch?v=m_2fDTuh5aU
 * Income generation, incentive control
 * Stablecoins
 
-## Plays
+## Current Plays
 * Income generation
 	* FXS
 	* CVX
 	* CRV - generate stablecoins from cvxCRV
 	* DPX - also a good way of generating free yield if you would sell anyway
-* Blockspace (L1, L2)
+* Blockspace (L1, L2s that haven't pumped yet)
+	* MATIC
 	* ATOM
 	* NEAR/AURORA
 	* METIS
-	* zkSync
 	* ALGO
+	* zkSync
 * Stablecoins
 	* FXS
 	* SPELL
@@ -47,3 +49,4 @@ https://blknoiz06.substack.com/p/quarter-i-2022
 https://twitter.com/DrNickA/status/1477223969249968129
 Ultra Bull: https://twitter.com/DrNickA/status/1440591802055069704
 Ultra Bear: https://twitter.com/DrNickA/status/1440222545077178371
+
