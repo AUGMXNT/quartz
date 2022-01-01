@@ -1,3 +1,8 @@
+---
+title: "2022 Predictions"
+---
+
+
 * Continued demand for blockspace
 	* alt-L1 to L2 plays
 

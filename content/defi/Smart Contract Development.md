@@ -1,3 +1,8 @@
+---
+title: "Smart Contract Development"
+---
+
+
 https://ethereum-blockchain-developer.com/
 https://www.docdroid.net/OQxKMLO/ethereum-blockchain-developer-guide-updated-pdf
 
