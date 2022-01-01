@@ -5,8 +5,10 @@ title: "2022 Predictions"
 
 * Continued demand for blockspace
 	* alt-L1 to L2 plays
+* Income generation, incentive control
+* Stablecoins
 
-Plays
+## Plays
 
 * Income generation
 	* FXS
