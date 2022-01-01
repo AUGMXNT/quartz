@@ -19,6 +19,10 @@ Plays
 	* METIS
 	* zkSync
 	* ALGO
+* Stablecoins
+	* FXS
+	* SPELL
+	* CRV
 
 ## Risks
 * Macro
