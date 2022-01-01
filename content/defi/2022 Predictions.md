@@ -7,6 +7,7 @@ title: "2022 Predictions"
 		* Still thinking about https://www.youtube.com/watch?v=m_2fDTuh5aU
 * Income generation, incentive control
 * Stablecoins
+* Most interesting area: DAOs
 
 ## Current Plays
 * Income generation
@@ -31,7 +32,7 @@ title: "2022 Predictions"
 * Regulation
 	* https://twitter.com/moo9000/status/1476827340940455939
 
-## Takes
+## Other Takes
 ### 0xJim
 https://jim.mirror.xyz/eW8O258nflwIRo-MKR5u2ipGgoDdT_KOAQAIhK0Iu5M
 
