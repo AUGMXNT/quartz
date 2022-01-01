@@ -51,3 +51,5 @@ https://twitter.com/DrNickA/status/1477223969249968129
 Ultra Bull: https://twitter.com/DrNickA/status/1440591802055069704
 Ultra Bear: https://twitter.com/DrNickA/status/1440222545077178371
 
+### Square Enix
+https://www.hd.square-enix.com/eng/news/2022/html/a_new_years_letter_from_the_president_2.html
