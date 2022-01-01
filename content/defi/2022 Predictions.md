@@ -30,3 +30,8 @@ https://newsletter.banklesshq.com/p/what-are-your-2022-crypto-predictions/commen
 
 Ansem's Newsletter
 https://blknoiz06.substack.com/p/quarter-i-2022
+
+DrNickA
+https://twitter.com/DrNickA/status/1477223969249968129
+Ultra Bull: https://twitter.com/DrNickA/status/1440591802055069704
+Ultra Bear: https://twitter.com/DrNickA/status/1440222545077178371
