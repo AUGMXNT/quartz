@@ -61,3 +61,6 @@ Ultra Bear: https://twitter.com/DrNickA/status/1440222545077178371
 
 ### Square Enix
 https://www.hd.square-enix.com/eng/news/2022/html/a_new_years_letter_from_the_president_2.html
+
+### Adam Cochran
+https://twitter.com/adamscochran/status/1476652328736342023
