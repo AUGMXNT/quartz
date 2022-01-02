@@ -75,6 +75,9 @@ https://www.tbstat.com/wp/uploads/2021/12/The-Block-Research-2022-Digital-Asset-
 ### Messari Crypto Theses for 2022
 https://messari.io/pdf/messari-report-crypto-theses-for-2022.pdf
 
+### Arcane Research 2021 Summary (+ some 2022 predictions)
+https://static1.squarespace.com/static/60377b34e7791c1277aaae97/t/61cb272480430d5cc3337156/1640703789129/Weekly+update+-+Arcane+Research+%28Week+51%29+2021+SUMMARY.pdf
+
 ### Bloomberg Global Cryptocurrencies 2022 Outlook
 https://assets.bbhub.io/professional/sites/10/1489771_Crypto-Dev2021Outlook.pdf
 * lol
