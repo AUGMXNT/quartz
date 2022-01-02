@@ -68,3 +68,7 @@ https://twitter.com/adamscochran/status/1476652328736342023
 
 ### Messari Crypto Theses for 2022
 https://messari.io/pdf/messari-report-crypto-theses-for-2022.pdf
+
+### Bloomberg Global Cryptocurrencies 2022 Outlook
+https://assets.bbhub.io/professional/sites/10/1489771_Crypto-Dev2021Outlook.pdf
+* lol
