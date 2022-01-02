@@ -36,8 +36,11 @@ title: "2022 Predictions"
 * Macro (hedged via income generation and stablecoin plays)
 * Regulation
 	* https://twitter.com/moo9000/status/1476827340940455939
+* web3, great rebrand, need to make it usable
+	* https://twitter.com/chriscantino/status/1477665773619486720
 
 ## Other Takes
+###
 ### David Phelps
 https://twitter.com/divine_economy/status/1476655981362831360
 https://twitter.com/divine_economy/status/1476996478015000581
@@ -66,9 +69,14 @@ https://www.hd.square-enix.com/eng/news/2022/html/a_new_years_letter_from_the_pr
 ### Adam Cochran
 https://twitter.com/adamscochran/status/1476652328736342023
 
+### The Block Research 2022 Digital Asset Outlook
+https://www.tbstat.com/wp/uploads/2021/12/The-Block-Research-2022-Digital-Asset-Outlook.v2.pdf
+
 ### Messari Crypto Theses for 2022
 https://messari.io/pdf/messari-report-crypto-theses-for-2022.pdf
 
 ### Bloomberg Global Cryptocurrencies 2022 Outlook
 https://assets.bbhub.io/professional/sites/10/1489771_Crypto-Dev2021Outlook.pdf
 * lol
+
+## 2021 Insights
