@@ -80,3 +80,7 @@ https://assets.bbhub.io/professional/sites/10/1489771_Crypto-Dev2021Outlook.pdf
 * lol
 
 ## 2021 Insights
+* [Trading the Metagame](https://cobie.substack.com/p/trading-the-metagame) by Cobie
+* [China + web3](https://twitter.com/QwQiao/status/1477666842978226179) by Qiao Wang
+* [Ethereum vs Alt L1s](https://www.youtube.com/watch?v=m_2fDTuh5aU) Su Zhu and Hasu (Uncommon Core Podcast)
+* [5 Mental Models for Web3](https://www.youtube.com/watch?v=jezH_7qEk50) Chris Dixon (Bankless Podcast)
