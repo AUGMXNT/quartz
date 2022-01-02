@@ -65,3 +65,6 @@ https://www.hd.square-enix.com/eng/news/2022/html/a_new_years_letter_from_the_pr
 
 ### Adam Cochran
 https://twitter.com/adamscochran/status/1476652328736342023
+
+### Messari Crypto Theses for 2022
+https://messari.io/pdf/messari-report-crypto-theses-for-2022.pdf
