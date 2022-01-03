@@ -57,6 +57,7 @@ title: Personal Knowledge Management Systems
 ### [Zotero](https://www.zotero.org/)
 * https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536
 * https://github.com/ishnid/zotero-obsidian
+* https://github.com/argenos/zotero-mdnotes
 
 ### Paperpile
 https://paperpile.com/
