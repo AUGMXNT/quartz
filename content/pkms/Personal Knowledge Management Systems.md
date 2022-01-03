@@ -23,6 +23,7 @@ title: Personal Knowledge Management Systems
 Similar to Logseq (Roam clone), but database based
 * Pros
 * Cons
+	* Scaling Issues: https://github.com/athensresearch/athens/issues/1711
 
 #### [Trilium](https://github.com/zadam/trilium)
 * Pros
