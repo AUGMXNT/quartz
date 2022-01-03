@@ -18,7 +18,8 @@ title: Personal Knowledge Management Systems
 * Cons
 	* Everything's an outline
 
-[Athens Research](https://www.athensresearch.org/)
+#### [Athens Research](https://www.athensresearch.org/)
+Similar to Logseq (Roam clone), but database based
 * Pros
 * Cons
 
