@@ -4,6 +4,7 @@ title: Personal Knowledge Management Systems
 
 ## Desired Features
 * WYSIWYG/Live Preview Editing
+* Plugins (Integrations, Expansion)
 * Attachments
 * Selective Publishing
 * Collaborative Features
