@@ -50,3 +50,13 @@ title: Personal Knowledge Management Systems
 #### [Notion](https://www.notion.so/)
 * Pros
 * Cons
+
+
+## Reference Management
+
+### [Zotero](https://www.zotero.org/)
+* https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536
+* https://github.com/ishnid/zotero-obsidian
+
+### Paperpile
+https://paperpile.com/
