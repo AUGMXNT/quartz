@@ -99,3 +99,14 @@ Understanding the ve/vl token governance models is key to understanding DeFi pro
 	* https://medium.com/coinmonks/convex-curve-curve-d7e28cd6c1d9
 	* https://www.littlemight.com/articles/the-cashflow-passive-income-401k-defi-project-convex-finance
 	* https://jamesbachini.com/curve-wars/
+* Recommended plays
+	* CRV @ 6 and CVX @ 50 (Jan 4 2021) is probably a bit overheated. I'd recommend waiting for a pullback before buying. CRV is available on many exchanges and can be bought with limit orders on CEX. CVX is currently almost exclusively only available via DEX. FXS and DPX are also super hot atm.
+		* My "decent" entry targets: CRV <5, CVR <35, FXS <25, DPX <1500 
+	* If you're going to buy these assets, the best way to profit is to also use these protocols, these can only be executed on Ethereum mainnet - be prepared for $50+/tx. I'd recommend only entering with $50K+ ($100K+ honestly)
+		* CRV -> cvxCRV and stake on https://www.convexfinance.com/stake
+		* CVX -> vlCVX on https://www.convexfinance.com/lock-cvx
+			* Requires relocking every 16wks, delegating to Votium, voting
+		* FXS -> cvxFXS on https://frax.convexfinance.com/ (if before FPI airdrop)
+			* you can do a lot more with FXS (veFXS) if you are looking for the best stablecoin returns available...
+		* DPX -> DPX/ETH farm on https://app.dopex.io/farms (Arbitrum)
+			* DPX is a bit too volatile, but you should also look into covered calls for DPX		
