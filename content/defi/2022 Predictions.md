@@ -109,4 +109,7 @@ Understanding the ve/vl token governance models is key to understanding DeFi pro
 		* FXS -> cvxFXS on https://frax.convexfinance.com/ (if before FPI airdrop)
 			* you can do a lot more with FXS (veFXS) if you are looking for the best stablecoin returns available...
 		* DPX -> DPX/ETH farm on https://app.dopex.io/farms (Arbitrum)
-			* DPX is a bit too volatile, but you should also look into covered calls for DPX		
+			* DPX is a bit too volatile, but you should also look into covered calls for ETH using DopeX as the returns are great if you have ETH that you would sell at specific prices anyway
+	* One more thing...
+		* https://defi-lab.xyz/uniswapv3simulator
+		* https://www.metacrypt.org/tools/uniswap-v3-calculator-simulator/		
