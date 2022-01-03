@@ -55,9 +55,23 @@ title: Personal Knowledge Management Systems
 ## Reference Management
 
 ### [Zotero](https://www.zotero.org/)
+* https://news.ycombinator.com/item?id=29774097
 * https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536
 * https://github.com/ishnid/zotero-obsidian
 * https://github.com/argenos/zotero-mdnotes
+* https://github.com/hans/obsidian-citation-plugin
+* https://github.com/zotero/translate
+* https://github.com/zotero/translators
+* https://www.zotero.org/support/dev/translators
 
 ### Paperpile
 https://paperpile.com/
+
+### Papers
+https://www.papersapp.com/
+
+### I, Librarian
+https://i-librarian.net/
+
+### Polar
+https://getpolarized.io/
