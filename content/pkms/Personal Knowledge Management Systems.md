@@ -18,6 +18,10 @@ title: Personal Knowledge Management Systems
 * Cons
 	* Everything's an outline
 
+[Athens Research](https://www.athensresearch.org/)
+* Pros
+* Cons
+
 #### [Trilium](https://github.com/zadam/trilium)
 * Pros
 * Cons
