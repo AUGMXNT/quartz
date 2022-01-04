@@ -41,6 +41,10 @@ title: "2022 Predictions"
 
 ## Other Takes
 ###
+#### redphonecrypto
+https://drive.google.com/file/d/1jxmTpPE-XXUCDkJwez87FA9Fi-xlaXqr/view
+https://redphone.substack.com/p/69
+
 ### David Phelps
 https://twitter.com/divine_economy/status/1476655981362831360
 https://twitter.com/divine_economy/status/1476996478015000581
