@@ -123,4 +123,6 @@ Understanding the ve/vl token governance models is key to understanding DeFi pro
 			* DPX is a bit too volatile, but you should also look into covered calls for ETH using DopeX as the returns are great if you have ETH that you would sell at specific prices anyway
 	* One more thing...
 		* https://defi-lab.xyz/uniswapv3simulator
-		* https://www.metacrypt.org/tools/uniswap-v3-calculator-simulator/		
+		* https://www.metacrypt.org/tools/uniswap-v3-calculator-simulator/
+			* CRV 0.0008-0.0024
+			* CVX 200-25
