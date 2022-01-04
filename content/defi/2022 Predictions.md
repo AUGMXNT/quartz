@@ -5,7 +5,6 @@ title: "2022 Predictions"
 ## Areas of Interest
 * Continued demand for blockspace
 	* alt-L1 to L2 plays
-		* Still thinking about https://www.youtube.com/watch?v=m_2fDTuh5aU
 * Income generation, incentive control
 * Stablecoins
 * DAO experiments & Utility NFTs
@@ -40,15 +39,14 @@ title: "2022 Predictions"
 	* https://twitter.com/chriscantino/status/1477665773619486720
 
 ## Other Takes
-###
-#### redphonecrypto
+### redphonecrypto
 https://drive.google.com/file/d/1jxmTpPE-XXUCDkJwez87FA9Fi-xlaXqr/view
 https://redphone.substack.com/p/69
 
-#### Richard Chen (1confirmation): Under-the-radar product trends: 2021 recap and 2022 predictions
+### Richard Chen (1confirmation): Under-the-radar product trends: 2021 recap and 2022 predictions
 https://thecontrol.co/under-the-radar-product-trends-2021-recap-and-2022-predictions-403084a63ce8
 
-#### 1confirmation 2021 NFT YEAR IN REVIEW
+### 1confirmation 2021 NFT YEAR IN REVIEW
 https://www.1confirmation.com/2021-nft-annual-review
 https://static1.squarespace.com/static/614cb06ad09e374be7d91eb9/t/61d1e304f52c6c2fb8f33927/1641145100609/1confirmation+2021+NFT+Year+in+Review.pdf
 
