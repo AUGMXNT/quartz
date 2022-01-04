@@ -45,6 +45,13 @@ title: "2022 Predictions"
 https://drive.google.com/file/d/1jxmTpPE-XXUCDkJwez87FA9Fi-xlaXqr/view
 https://redphone.substack.com/p/69
 
+#### Richard Chen: Under-the-radar product trends: 2021 recap and 2022 predictions
+https://thecontrol.co/under-the-radar-product-trends-2021-recap-and-2022-predictions-403084a63ce8
+
+#### 1confirmation 2021 NFT YEAR IN REVIEW
+https://www.1confirmation.com/2021-nft-annual-review
+https://static1.squarespace.com/static/614cb06ad09e374be7d91eb9/t/61d1e304f52c6c2fb8f33927/1641145100609/1confirmation+2021+NFT+Year+in+Review.pdf
+
 ### David Phelps
 https://twitter.com/divine_economy/status/1476655981362831360
 https://twitter.com/divine_economy/status/1476996478015000581
