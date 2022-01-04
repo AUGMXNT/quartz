@@ -45,7 +45,7 @@ title: "2022 Predictions"
 https://drive.google.com/file/d/1jxmTpPE-XXUCDkJwez87FA9Fi-xlaXqr/view
 https://redphone.substack.com/p/69
 
-#### Richard Chen: Under-the-radar product trends: 2021 recap and 2022 predictions
+#### Richard Chen (1confirmation): Under-the-radar product trends: 2021 recap and 2022 predictions
 https://thecontrol.co/under-the-radar-product-trends-2021-recap-and-2022-predictions-403084a63ce8
 
 #### 1confirmation 2021 NFT YEAR IN REVIEW
@@ -98,6 +98,8 @@ https://assets.bbhub.io/professional/sites/10/1489771_Crypto-Dev2021Outlook.pdf
 * [China + web3](https://twitter.com/QwQiao/status/1477666842978226179) by Qiao Wang
 * [Ethereum vs Alt L1s](https://www.youtube.com/watch?v=m_2fDTuh5aU) Su Zhu and Hasu (Uncommon Core Podcast)
 * [5 Mental Models for Web3](https://www.youtube.com/watch?v=jezH_7qEk50) Chris Dixon (Bankless Podcast)
+* [An Engineer's Hype-Free Observations on Web3 (and its Possibilities)](https://www.psl.com/feed-posts/web3-engineer-take)
+* [Notes on Web3](https://society.robinsloan.com/archive/notes-on-web3/) - Robin Sloan's critique of web3
 
 ### Curve Wars
 Understanding the ve/vl token governance models is key to understanding DeFi protocol Value Accrual
@@ -105,6 +107,7 @@ Understanding the ve/vl token governance models is key to understanding DeFi pro
 	* https://rekt.news/curve-wars/
 	* https://defieducation.substack.com/p/the-great-curve-wars
 	* https://theknower.substack.com/p/the-curve-wars-rage-on
+	* https://medium.com/@Magnus_Capital/gauge-wars-the-convex-governance-blackhole-the-removal-of-the-bribe-ceiling-3245c77c3c02
 * Actual mechanics and how to make money
 	* https://tokenbrice.xyz/crv-wars/
 	* https://medium.com/coinmonks/convex-curve-curve-d7e28cd6c1d9
