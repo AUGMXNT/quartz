@@ -126,5 +126,5 @@ Understanding the ve/vl token governance models is key to understanding DeFi pro
 	* One more thing...
 		* https://defi-lab.xyz/uniswapv3simulator
 		* https://www.metacrypt.org/tools/uniswap-v3-calculator-simulator/
-			* CRV 0.0008-0.0024
-			* CVX 200-25
+			* CV 0.0008-0.0024
+			* CX 200-25
