@@ -19,8 +19,7 @@ title: "2022 Predictions"
 		* FXS -> cvxFXS
 		* CVX -> vlCVX
 		* CRV -> cvxCRV
-		* UniV3 LP plays
-		* 
+		* UniV3 LPs for tokens I want
 	* Arbitrum
 		* DPX - also a good way of generating free yield on ETH you would sell anyway
 * Blockspace (L1, L2s that haven't fully pumped yet)
@@ -34,6 +33,9 @@ title: "2022 Predictions"
 	* FXS
 	* SPELL
 	* CRV
+	* FLX
+	* TRIBE
+	* LQTY
 
 ## Risks
 * Macro (hedged via income generation and stablecoin plays)
