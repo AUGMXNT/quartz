@@ -25,5 +25,11 @@ https://9000.hal.xyz/triggers
 Open Interest
 https://coinalyze.net/futures-data/coins/
 
+Estimated Leverage Ratio
+https://cryptoquant.com/overview?search=estimated+leverage+ratio
+
+
+
 Indicators
 https://www.lookintobitcoin.com/charts/
+
