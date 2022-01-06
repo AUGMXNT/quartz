@@ -20,3 +20,10 @@ https://l2beat.com/
 https://l2fees.info/
 
 https://9000.hal.xyz/triggers
+
+
+Open Interest
+https://coinalyze.net/futures-data/coins/
+
+Indicators
+https://www.lookintobitcoin.com/charts/
