@@ -28,8 +28,6 @@ https://coinalyze.net/futures-data/coins/
 Estimated Leverage Ratio
 https://cryptoquant.com/overview?search=estimated+leverage+ratio
 
-
-
 Indicators
 https://www.lookintobitcoin.com/charts/
 
