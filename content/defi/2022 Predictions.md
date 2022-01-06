@@ -5,8 +5,10 @@ title: "2022 Predictions"
 ## Areas of Interest
 * Continued demand for blockspace
 	* alt-L1 to L2 plays
-* Income generation, incentive control
+* Income generation, incentive control (veNomics)
 * Stablecoins
+	* a bear market for crypto is a bull market for stablecoins
+	* there will be regulatory headwinds...
 * DAO experiments & Utility NFTs
 	* https://twitter.com/Flynnjamm/status/1476582725691789315
 * Private Transactions
@@ -17,6 +19,8 @@ title: "2022 Predictions"
 		* FXS -> cvxFXS
 		* CVX -> vlCVX
 		* CRV -> cvxCRV
+		* UniV3 LP plays
+		* 
 	* Arbitrum
 		* DPX - also a good way of generating free yield on ETH you would sell anyway
 * Blockspace (L1, L2s that haven't fully pumped yet)
