@@ -18,3 +18,5 @@ https://coincodex.com/cryptocurrencies/sector/stablecoins/
 https://ethtps.info/
 https://l2beat.com/
 https://l2fees.info/
+
+https://9000.hal.xyz/triggers
