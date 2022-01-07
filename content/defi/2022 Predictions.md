@@ -50,6 +50,9 @@ title: "2022 Predictions"
 	* https://twitter.com/chriscantino/status/1477665773619486720
 
 ## Other Takes
+### Electric Capital Developer Report (2021)
+https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d
+
 ### redphonecrypto
 https://drive.google.com/file/d/1jxmTpPE-XXUCDkJwez87FA9Fi-xlaXqr/view
 https://redphone.substack.com/p/69
