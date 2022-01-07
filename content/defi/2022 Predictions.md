@@ -25,6 +25,7 @@ title: "2022 Predictions"
 * Blockspace (L1, L2s that haven't fully pumped yet)
 	* MATIC
 	* ATOM
+	* GNO
 	* NEAR/AURORA
 	* METIS
 	* ALGO
@@ -39,6 +40,7 @@ title: "2022 Predictions"
 * Crosschain
 	* SYN
 	* ANY
+	* CELR
 
 ## Risks
 * Macro (hedged via income generation and stablecoin plays)
