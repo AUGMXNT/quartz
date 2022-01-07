@@ -36,6 +36,9 @@ title: "2022 Predictions"
 	* FLX
 	* TRIBE
 	* LQTY
+* Crosschain
+	* SYN
+	* ANY
 
 ## Risks
 * Macro (hedged via income generation and stablecoin plays)
