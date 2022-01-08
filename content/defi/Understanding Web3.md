@@ -5,6 +5,7 @@ The Web 3.0->Web3 we are talking about was originally coined by Gavin York (co-f
 web3 started getting real traction in 2021 as a rebranding of "crypto" as DeFi, NFTs, and DAOs have started taking off.
 * https://twitter.com/JasonYanowitz/status/1468703190166167570
 * https://twitter.com/sm/status/1470952672526168066
+* https://twitter.com/copyconstruct/status/1468342703507193862
 
 While the stated goals/mission for Web 3.0 includes decentralization and user control of their data and identity, and monetization and sustainability models are drastically different, when boiled down to a base level (IMO), what web3 adds is a credibly neutral system for transferring value on the Internet (in the way that Web 1.0 was primarily about self-publishing information, and Web 2.0 about social aggregation and communication).
 
@@ -20,6 +21,7 @@ https://www.coindesk.com/layer2/2022/01/04/what-is-web-3-heres-how-future-polkad
 ## Good Critiques
 https://moxie.org/2022/01/07/web3-first-impressions.html
 https://seldo.com/posts/crypto-the-good-the-bad-and-the-ugly
+https://apenwarr.ca/log/20211201
 https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/
 https://society.robinsloan.com/archive/notes-on-web3/
 
