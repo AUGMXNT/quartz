@@ -6,7 +6,10 @@ web3 started getting real traction in 2021 as a rebranding of "crypto" as DeFi, 
 * https://twitter.com/JasonYanowitz/status/1468703190166167570
 * https://twitter.com/sm/status/1470952672526168066
 
-While the stated goals/mission for Web 3.0 includes decentralization and user control of their data and identity, the (IMO) on a more practical level, what web3 adds is a credibly neutral system for transferring value on the Internet.
+While the stated goals/mission for Web 3.0 includes decentralization and user control of their data and identity, and monetization and sustainability models are drastically different, when boiled down to a base level (IMO), what web3 adds is a credibly neutral system for transferring value on the Internet (in the way that Web 1.0 was primarily about self-publishing information, and Web 2.0 about social aggregation and communication).
+
+
+
 
 
 https://www.wired.com/story/web3-gavin-wood-interview/
@@ -21,3 +24,4 @@ https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/
 https://society.robinsloan.com/archive/notes-on-web3/
 
 ## Bad (or Bad Faith) Critiques
+Stephen Diehl
