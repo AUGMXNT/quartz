@@ -11,11 +11,12 @@ While the stated goals/mission for Web 3.0 includes decentralization and user co
 
 
 
-
-
+https://cdixon.org/2018/02/18/why-decentralization-matters
 https://www.wired.com/story/web3-gavin-wood-interview/
 https://www.coindesk.com/layer2/2022/01/04/what-is-web-3-heres-how-future-polkadot-founder-gavin-wood-explained-it-in-2014/
-
+https://consensys.net/reports/web3-report-q3-2021/
+https://digitalnative.substack.com/p/most-people-wont-know-web3-exists
+https://cdixon.org/2018/02/18/why-decentralization-matters
 
 # Criticism
 ## Good Critiques
@@ -25,5 +26,45 @@ https://apenwarr.ca/log/20211201
 https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/
 https://society.robinsloan.com/archive/notes-on-web3/
 
+
+https://modelcitizen.substack.com/p/is-crypto-bullshit
+
+
+- https://threadreaderapp.com/thread/1463573466217521159.html
+- https://twitter.com/lhl/status/1450405291456040962
+- https://www.skalex.io/ethereum-casper/
+- https://www.valuethemarkets.com/2021/04/23/ethereum-casperlabs-casper-cspr-token/
+- https://medium.com/chainsafe-systems/ethereum-2-0-a-complete-guide-casper-and-the-beacon-chain-be95129fc6c1
+- https://www.mindomo.com/mindmap/casperresearch-35f379dac0d04218a99d8cbe901e3414
+- https://www.mindmeister.com/1104041598/ethereum?fullscreen=1
+- https://www.mindomo.com/mindmap/sharding-d7cf8b6dee714d01a77388cb5d9d2a01
+- https://eth.wiki/sharding/Sharding-FAQs
+- https://twitter.com/vitalikbuterin/status/1333922620857745408
+-
+- https://eth.wiki/en/fundamentals/design-rationale
+- https://notes.ethereum.org/@vbuterin/rkhCgQteN#Serenity-Design-Rationale
+- Cryptoeconomics
+	- https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff
+	- https://medium.com/@venkinarayanan/crypto-economics-101-58e9927fa025
+	- https://cbsofbci.thinkific.com/courses/cryptoeconomics-security
+	- https://www.startupcolumbia.org/panels-keynotes/2019/04/06/crypto-economics-101
+	- https://en.wikiversity.org/wiki/Cryptoeconomics
+	- https://github.com/jpantunes/awesome-cryptoeconomics
+	- https://medium.com/0xvlad/crypto-mind-map-92ca07a23765
+	- https://diar.co/
+
+
 ## Bad (or Bad Faith) Critiques
 Stephen Diehl
+- https://www.stephendiehl.com/blog.html
+- https://twitter.com/smdiehl
+- CTO Adjoint (Private Blockchain startup)
+	- https://www.f6s.com/stephendiehl
+	- https://twitter.com/dystopiabreaker/status/1470126927818067969
+	- http://internetofagreements.com/2017/12/18/stephen-diehl-adjoint-smart-contracts-for-new-entrepreneurs/
+	- https://www.youtube.com/watch?v=gFlu61wJe2Y
+	- http://www.adjoint.io/
+	- https://medium.com/@stephendiehl/about
+		- https://medium.com/@stephendiehl
+
+https://yesterweb.org/no-to-web3/
