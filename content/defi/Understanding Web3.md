@@ -1,5 +1,5 @@
 # What is Web3 (web3)
-The Web 3.0->Web3 we are talking about was originally coined by Gavin York (co-founder of Ethereum, now Parity/Polkadot) back in 2014, not to be confused with the [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) - Web 3.0 coined by TBL but that never gained traction.
+The Web 3.0->Web3 we are talking about was originally coined by Gavin York (co-founder of Ethereum, now Parity/Polkadot) back in 2014, not to be confused with the [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) - Web 3.0 coined by TBL (2006) but that never gained traction.
 * Gavin Wood, 2018: [Why We Need Web 3.0](https://gavofyork.medium.com/why-we-need-web-3-0-5da4f2bf95ab)
 
 web3 started getting real traction in 2021 as a rebranding of "crypto" as DeFi, NFTs, and DAOs have started taking off.
