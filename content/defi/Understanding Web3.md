@@ -14,7 +14,14 @@ web3 started getting real traction in 2021 as a rebranding of "crypto" as DeFi, 
 While the stated goals/mission for Web 3.0 includes decentralization and user control of their data and identity, and monetization and sustainability models are drastically different, when boiled down to a base level (IMO), what web3 adds is a credibly neutral system for transferring value on the Internet (in the way that Web 1.0 was primarily about self-publishing information, and Web 2.0 about social aggregation and communication).
 
 
-https://www.youtube.com/watch?v=jezH_7qEk50
+
+* [China + web3](https://twitter.com/QwQiao/status/1477666842978226179) by Qiao Wang
+* [Ethereum vs Alt L1s](https://www.youtube.com/watch?v=m_2fDTuh5aU) Su Zhu and Hasu (Uncommon Core Podcast)
+* [5 Mental Models for Web3](https://www.youtube.com/watch?v=jezH_7qEk50) Chris Dixon (Bankless Podcast)
+* [An Engineer's Hype-Free Observations on Web3 (and its Possibilities)](https://www.psl.com/feed-posts/web3-engineer-take)
+* [Notes on Web3](https://society.robinsloan.com/archive/notes-on-web3/) - Robin Sloan's critique of web3
+* [Venkatesh Rao: Jumping into Web3](https://threadreaderapp.com/thread/1457449043164991488.html) - a very long but worthwhile Twitter thread (unrolled)
+
 
 
 * https://cdixon.org/2018/02/18/why-decentralization-matters
