@@ -13,16 +13,17 @@ web3 started getting real traction in 2021 as a rebranding of "crypto" as DeFi, 
 
 While the stated goals/mission for Web 3.0 includes decentralization and user control of their data and identity, and monetization and sustainability models are drastically different, when boiled down to a base level (IMO), what web3 adds is a credibly neutral system for transferring value on the Internet (in the way that Web 1.0 was primarily about self-publishing information, and Web 2.0 about social aggregation and communication).
 
-https://cdixon.org/2018/02/18/why-decentralization-matters
-https://www.wired.com/story/web3-gavin-wood-interview/
-https://www.coindesk.com/layer2/2022/01/04/what-is-web-3-heres-how-future-polkadot-founder-gavin-wood-explained-it-in-2014/
-https://consensys.net/reports/web3-report-q3-2021/
-https://digitalnative.substack.com/p/most-people-wont-know-web3-exists
-https://cdixon.org/2018/02/18/why-decentralization-matters
 
+https://www.youtube.com/watch?v=jezH_7qEk50
+
+
+* https://cdixon.org/2018/02/18/why-decentralization-matters
+* https://www.wired.com/story/web3-gavin-wood-interview/
+* https://www.coindesk.com/layer2/2022/01/04/what-is-web-3-heres-how-future-polkadot-founder-gavin-wood-explained-it-in-2014/
+* https://consensys.net/reports/web3-report-q3-2021/
+* https://digitalnative.substack.com/p/most-people-wont-know-web3-exists
 
 https://modelcitizen.substack.com/p/is-crypto-bullshit
-
 
 - https://threadreaderapp.com/thread/1463573466217521159.html
 - https://twitter.com/lhl/status/1450405291456040962
