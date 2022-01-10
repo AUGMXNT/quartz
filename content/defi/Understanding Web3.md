@@ -13,8 +13,12 @@ web3 started getting real traction in 2021 as a rebranding of "crypto" as DeFi, 
 
 While the stated goals/mission for Web 3.0 includes decentralization and user control of their data and identity, and monetization and sustainability models are drastically different, when boiled down to a base level (IMO), what web3 adds is a credibly neutral system for transferring value on the Internet (in the way that Web 1.0 was primarily about self-publishing information, and Web 2.0 about social aggregation and communication).
 
-* Decentralized Authentication using private key signatures (wallets)
-* 
+* Decentralized authentication using private key signatures (wallets)
+* Platforms and protocols implement native value transfer mechanisms on credibly neutral, permissionless networks
+* Multiple clients and frontend interfaces are available
+* User participation (ownership, governance) in protocol/platform value accrual via tokenization
+
+The current state of web3 is technologically nascent, but this is a paradigmatic shift from the mature Web 2.0 (2008-present)
 
 
 
