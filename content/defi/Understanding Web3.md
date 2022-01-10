@@ -13,6 +13,9 @@ web3 started getting real traction in 2021 as a rebranding of "crypto" as DeFi, 
 
 While the stated goals/mission for Web 3.0 includes decentralization and user control of their data and identity, and monetization and sustainability models are drastically different, when boiled down to a base level (IMO), what web3 adds is a credibly neutral system for transferring value on the Internet (in the way that Web 1.0 was primarily about self-publishing information, and Web 2.0 about social aggregation and communication).
 
+* Decentralized Authentication using private key signatures (wallets)
+* 
+
 
 
 * [China + web3](https://twitter.com/QwQiao/status/1477666842978226179) by Qiao Wang
