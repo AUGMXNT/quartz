@@ -69,6 +69,7 @@ https://modelcitizen.substack.com/p/is-crypto-bullshit
 	* https://www.reddit.com/r/ethereum/comments/ryk3it/my_first_impressions_of_web3/hrrz15r/
 	* https://twitter.com/balajis/status/1479863075301834755
 	* https://medium.com/@danfinlay/what-moxie-missed-on-web3-wallets-8dc572e7f39b
+	* https://mirror.xyz/suzuha.eth/vb5E5lhzmPTcpxOJcz6Q211TDgSvoFwDLA6JSM1V37Q
 * https://seldo.com/posts/crypto-the-good-the-bad-and-the-ugly
 * https://apenwarr.ca/log/20211201
 * https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/
