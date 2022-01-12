@@ -65,6 +65,10 @@ https://modelcitizen.substack.com/p/is-crypto-bullshit
 # Criticism
 ## Good Critiques
 * https://moxie.org/2022/01/07/web3-first-impressions.html
+	* https://twitter.com/VitalikButerin/status/1479815125955715072
+	* https://www.reddit.com/r/ethereum/comments/ryk3it/my_first_impressions_of_web3/hrrz15r/
+	* 
+
 * https://seldo.com/posts/crypto-the-good-the-bad-and-the-ugly
 * https://apenwarr.ca/log/20211201
 * https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/
