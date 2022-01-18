@@ -126,6 +126,8 @@ Understanding the ve/vl token governance models is key to understanding DeFi pro
 	* https://medium.com/coinmonks/convex-curve-curve-d7e28cd6c1d9
 	* https://www.littlemight.com/articles/the-cashflow-passive-income-401k-defi-project-convex-finance
 	* https://jamesbachini.com/curve-wars/
+	* [CVX Analysis by etant](https://medium.com/@etant/cvx-analysis-68bbf87f947a)
+		* "Explaining what is Curve and Convex. With a comprehensive analysis of the utility, narrative, and demand of CVX."
 * Recommended plays
 	* CRV @ 6 and CVX @ 50 (Jan 4 2021) is probably a bit overheated. I'd recommend waiting for a pullback before buying. CRV is available on many exchanges and can be bought with limit orders on CEX. CVX is currently almost exclusively only available via DEX. FXS and DPX are also super hot atm.
 		* My "decent" entry targets: CRV <5, CVX <35, FXS <30, DPX <1500 
