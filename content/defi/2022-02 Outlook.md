@@ -42,5 +42,9 @@ Don't play here w/ $10Ks or fees will kill you. FXS and Uniswap fees can be $200
 
 ### Arbitrum
 * I've done well with farming [DPX/rDPX](https://app.dopex.io/farms) and have been making great monthly returns with deposits in the [ETH SSOV](https://app.dopex.io/ssov/manage/ETH)
+* GMX is also [paying decent returns on GLP](https://gmx.io/earn) for some lower-volatility farming, also available on Avalanche
 
 ### Polygon
+* I ran the numbers and actually for ETH deposits, Aave on Avalanche beats out Avalanche (although AVAX borrow and depositing into Impermax or Yieldyak is better for looping on Avalanche). I'm using [Aave on Instadapp Polygon](https://gmx.io/earn) for doing shorting with debt swaps between ETH and USDC/DAI. I'm doing this primarily as a downside hedge rather than scalping. If ETH goes below 1700 I will probably freeze all my outstanding stablecoin loans as crypto (ETH or more volatile if possible) until we turn the corner
+* UniV3 MATIC/ETH and Quickswap MATIC/PECO offer nice LP returns with limited IL, might be worthwhile (I'm not in these)
+* Mai Finance is offering 60% in weekly QI rewards (on a tear) camMATIC [in vaults atm](https://app.mai.finance/vaults/create) - these are single-staking and require keeping collateral ratios in a band (160%-405%)
