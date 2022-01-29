@@ -17,7 +17,7 @@ Reading the market: https://cryptohayes.medium.com/
 
 ### US Regulatory threats
 * [Urgent Considerations of Impact on Blockchain/DeFi of the SEC's Proposed Regulation ATS Amendment](https://lexnode.substack.com/p/urgent-considerations-of-impact-on?justPublished=true)
-* [# New bill would hand Treasury blank check to ban crypto at exchanges](https://www.coincenter.org/new-bill-would-hand-treasury-blank-check-to-ban-crypto-at-exchanges/)
+* [New bill would hand Treasury blank check to ban crypto at exchanges](https://www.coincenter.org/new-bill-would-hand-treasury-blank-check-to-ban-crypto-at-exchanges/)
 * [White House Wants Crypto Rules as a Matter of National Security](https://www.barrons.com/articles/white-house-executive-action-regulate-cryptos-national-security-51643312454)
 
 ## Plays
@@ -29,7 +29,8 @@ My core holding remains ETH (70%+); I have about 5-10% hedged out in pure stable
   * Money printers: FXS, CVX, CRV, TOKE, LOOKS
 
 ### Abandoned
-* Dani Coins: mostly exited SPELL (it should survive, but took a small L to limit exposure). ICE should might survive as well - I'm actually more bearish but have such a small position that's so far underwater it's not worth liquidating
+* Dani Coins: mostly exited SPELL (it should survive, but took a small L to limit exposure). ICE should should survive as well - I'm actually more bearish on the project as a whole but have such a small position that's so far underwater it's not worth liquidating
+	* Latest: https://twitter.com/squirrelcrypto/status/1487474897584545796
 
 ### Ethereum
 Don't play here w/ <$10K+ or fees will kill you. FXS and Uniswap fees can be $200+/tx 
