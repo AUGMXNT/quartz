@@ -5,8 +5,8 @@ title: "2022-02 Outlook"
 Mood: Bearish, Waiting for Capitulation
 
 Not a blow-off top, driven primarily by macro, blowing off froth. Since Nov have been consolidating to high conviction plays, but now is the time to protect downside, potentially to hedge. Still waiting for capitulation before "buying the dip":
-* OI back down significantly, maybe 1 more shakout? https://coinalyze.net/bitcoin/open-interest/
-* 
+* OI back down significantly, maybe 1 more shakeout? https://coinalyze.net/bitcoin/open-interest/ ; Long/Short ratio: https://coinalyze.net/bitcoin/open-interest/
+
 
 Factors:
 * Bad macro (FOMC, rates)
