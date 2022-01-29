@@ -21,7 +21,7 @@ Reading the market: https://cryptohayes.medium.com/
 * [White House Wants Crypto Rules as a Matter of National Security](https://www.barrons.com/articles/white-house-executive-action-regulate-cryptos-national-security-51643312454)
 
 ## Plays
-My core holding remains ETH (70%+); I have about 5-10% hedged out in pure stables
+My core holding remains ETH (70%+); I have about 5-10% hedged out in pure stables and am otherwise in positions/bets I'm happy to hold through potential cryptowinter
 
 ### Theses
   * Strong L1/L2s: ATOM eco, AVAX, MATIC, METIS, NEAR/AURORA
@@ -29,12 +29,12 @@ My core holding remains ETH (70%+); I have about 5-10% hedged out in pure stable
   * Money printers: FXS, CVX, CRV, TOKE, LOOKS
 
 ### Abandoned
-* Dani Coins: mostly exited SPELL (it should survive, but took a small L to limit exposure). ICE should still survive as well but I'm more bearish but such a small position that's so far underwater it doesn't matte
+* Dani Coins: mostly exited SPELL (it should survive, but took a small L to limit exposure). ICE should might survive as well - I'm actually more bearish but have such a small position that's so far underwater it's not worth liquidating
 
 ### Ethereum
-Don't play here w/ $10Ks or fees will kill you. FXS and Uniswap fees can be $200+/tx 
-* Lots of veFXS generating maximum yields on [gauge stable pools](https://app.frax.finance/staking#)
-* Rest of FXS in [Tokemak](https://www.tokemak.xyz/) until FPI announcement, then will [lock as cvxFXS](https://frax.convexfinance.com/)
+Don't play here w/ <$10K+ or fees will kill you. FXS and Uniswap fees can be $200+/tx 
+* Lots of veFXS locked and generating max yields on [gauge stable pools](https://app.frax.finance/staking#)
+* Rest of FXS in [Tokemak](https://www.tokemak.xyz/) until FPI announcment, then will [lock as cvxFXS](https://frax.convexfinance.com/)
 * A chunk of CRV exposure as very tax efficient play w/ yvBOOST since it was [trading way below backing price](https://blockenthusiast.substack.com/p/yvboost-a-sleeping-giant) - apparently [I wasn't the only one to spot this](https://twitter.com/vannny365/status/1487194028470845441)...
 * Additonal income generation with cvxCRV - it's cheaper to buy on the open market and [stake](https://www.convexfinance.com/stake) than to convert CRV. Generates about 55% APR including 15% atm of 3crv (stablecoin); <$3 seems like a decent price atm to me
 * CVX into [vlCVX](https://www.convexfinance.com/lock-cvx) and delegating vote to [Votium](https://votium.app/) is you want a [decent return](https://llama.airforce/#/votium/rounds) in tokens you want to collect (FRAX or more CVX for me); <$25 seems like a decent price to me atm
@@ -46,8 +46,8 @@ Don't play here w/ $10Ks or fees will kill you. FXS and Uniswap fees can be $200
 
 ### Polygon
 * I ran the numbers and actually for ETH deposits, Aave on Avalanche beats out Avalanche (although AVAX borrow and depositing into Impermax or Yieldyak is better for looping on Avalanche). I'm using [Aave on Instadapp Polygon](https://gmx.io/earn) for doing shorting with debt swaps between ETH and USDC/DAI. I'm doing this primarily as a downside hedge rather than scalping. If ETH goes below 1700 I will probably freeze all my outstanding stablecoin loans as crypto (ETH or more volatile if possible) until we turn the corner
-* UniV3 MATIC/ETH and Quickswap MATIC/PECO offer nice LP returns with limited IL, might be worthwhile (I'm not in these)
 * Mai Finance is offering 60% in weekly QI rewards (on a tear) camMATIC [in vaults atm](https://app.mai.finance/vaults/create) - these are single-staking and require keeping collateral ratios in a band (160%-405%) - it's a very similar model to Abracadabra, but currently the best place to store MATIC to farm stables. [MAI-USDC on Beefy](https://app.beefy.finance/#/polygon/vault/mai-usdc-mimatic) is probably the easiest
+* UniV3 MATIC/ETH and Quickswap MATIC/PECO offer nice LP returns with limited IL, might be worthwhile (I'm not in these)
 
 ### Avalanche
 * [GLP on GMX](https://gmx.io/earn) is like atricrypto but with returns on steroids. Pays 70% in AVAX on Avalanche (ETH in Arbitrum)
