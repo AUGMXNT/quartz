@@ -50,6 +50,10 @@ title: "2022 Predictions"
 	* https://twitter.com/chriscantino/status/1477665773619486720
 
 ## Other Takes
+### ARK Invest Big Ideas 2022
+https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK_BigIdeas2022.pdf
+* 
+
 ### Electric Capital Developer Report (2021)
 https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d
 
