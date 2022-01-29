@@ -55,4 +55,7 @@ Don't play here w/ <$10K+ or fees will kill you. FXS and Uniswap fees can be $20
 ### Cosmos/IBC
 * Most of my ATOM just remains staked, but the limited amounts I have in various [Osmosis](https://app.osmosis.zone/) pools continue to print away
 * Collected [Stargaze Airdrop](https://app.stargaze.zone/airdrop) (staked and LP'd) and [Shade Airdrop](https://airdrop.shadeprotocol.io/) coming at the end of the month. 
-* Beyond constant aidrops, reasons to play around with IBC: https://blog.cosmos.network/whats-coming-to-cosmos-in-2022-ce8e48d383ab****
+* Beyond constant aidrops, reasons to play around with IBC: https://blog.cosmos.network/whats-coming-to-cosmos-in-2022-ce8e48d383ab
+
+### Other
+Metis is back in a decent price range and has an interesting [H1 2022](https://metisdao.medium.com/metis-first-half-2022-roadmap-55c029ddf80a) roadmap but is definitely a spec play. Will be making little bets (also made one on NEAR/AURORA), especially on Ethereum L2s with tokens this year.
