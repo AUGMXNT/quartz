@@ -60,4 +60,4 @@ Airdrops: https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkf
 * Beyond constant aidrops, reasons to play around with IBC: https://blog.cosmos.network/whats-coming-to-cosmos-in-2022-ce8e48d383ab
 
 ### Other
-Metis is back in a decent price range and has an interesting [H1 2022](https://metisdao.medium.com/metis-first-half-2022-roadmap-55c029ddf80a) roadmap but is definitely a spec play. Will be making little bets (also made one on NEAR/AURORA), especially on Ethereum L2s with tokens this year.
+Metis is back in a decent price range and has an interesting [H1 2022](https://metisdao.medium.com/metis-first-half-2022-roadmap-55c029ddf80a) roadmap but is definitely a spec play. Will be making little bets (also made one on NEAR/AURORA), especially on Ethereum L2s with tokens this year (zkSync, Optimism, Arbitrum, etc).
