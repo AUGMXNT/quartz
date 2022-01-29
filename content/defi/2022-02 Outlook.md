@@ -34,4 +34,4 @@ Abandoned
 Ethereum
 * Lots of veFXS generating maximum yields on [gauge stable pools](https://app.frax.finance/staking#)
 * Rest of FXS in [Tokemak](https://www.tokemak.xyz/) until FPI announcement, then will [lock as cvxFXS](https://frax.convexfinance.com/)
-* A chunk of CRV as 
+* A chunk of CRV as yvBOOST
