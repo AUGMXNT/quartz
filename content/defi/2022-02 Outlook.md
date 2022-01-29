@@ -54,8 +54,9 @@ Don't play here w/ <$10K+ or fees will kill you. FXS and Uniswap fees can be $20
 * [GLP on GMX](https://gmx.io/earn) is like atricrypto but with returns on steroids. Pays 70% in AVAX on Avalanche (ETH in Arbitrum)
 
 ### Cosmos/IBC
+Airdrops: https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc_u52-YlripGw/htmlview
 * Most of my ATOM just remains staked, but the limited amounts I have in various [Osmosis](https://app.osmosis.zone/) pools continue to print away
-* Collected [Stargaze Airdrop](https://app.stargaze.zone/airdrop) (staked and LP'd) and [Shade Airdrop](https://airdrop.shadeprotocol.io/) coming at the end of the month. 
+* Collected [Stargaze Airdrop](https://app.stargaze.zone/airdrop) (staked and LP'd) and [Shade Airdrop](https://airdrop.shadeprotocol.io/) coming at the end of the month, EVMOS is the next big one I'm looking forward to.
 * Beyond constant aidrops, reasons to play around with IBC: https://blog.cosmos.network/whats-coming-to-cosmos-in-2022-ce8e48d383ab
 
 ### Other
