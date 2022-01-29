@@ -18,4 +18,5 @@ Reading the market: https://cryptohayes.medium.com/
 
 US Regulatory threats
 * [Urgent Considerations of Impact on Blockchain/DeFi of the SEC's Proposed Regulation ATS Amendment](https://lexnode.substack.com/p/urgent-considerations-of-impact-on?justPublished=true)
+* [# New bill would hand Treasury blank check to ban crypto at exchanges](https://www.coincenter.org/new-bill-would-hand-treasury-blank-check-to-ban-crypto-at-exchanges/)
 * [White House Wants Crypto Rules as a Matter of National Security](https://www.barrons.com/articles/white-house-executive-action-regulate-cryptos-national-security-51643312454)
