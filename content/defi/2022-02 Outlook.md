@@ -50,6 +50,7 @@ My core holding remains ETH (70%+); I have about 5-10% hedged out in pure stable
 * Dani Coins: mostly exited SPELL (it should survive, but took a small L to limit exposure). ICE should should survive as well - I'm actually more bearish on the project as a whole but have such a small position that's so far underwater it's not worth liquidating
 	* https://twitter.com/scott_lew_is/status/1487824942414581768
 	* https://twitter.com/danielesesta/status/1487826195978899457
+	* https://twitter.com/adamscochran/status/1487179363862908933
 	* https://twitter.com/squirrelcrypto/status/1487474897584545796
 	* https://twitter.com/JackNiewold/status/1487510327570972674
 	* https://curve.substack.com/p/the-vanishing-spell-
