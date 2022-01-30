@@ -13,26 +13,34 @@ If you're holding long-term and not over-leveraged, just sit tight, nothing to d
 * Geo-risk (Russia/Ukraine)
 * Retail bad (Collapse of rebase tokens, Dani/Quadriga scandal, MIM/UST depeg risk)
 
+#### Other Takes
 Reading the market: https://cryptohayes.medium.com/
 * Arthur correctly called this correction so [his latest article](https://cryptohayes.medium.com/bottomless-29160a0156cd) is absolutely worth paying attention to. He's looking to see if there's a bounce at 28.5K BTC, 1.7K ETH - if it doesn't, look for a retest of last ATHs (20K BTC, 1.4K ETH)
 
 Ari Paul
-* https://twitter.com/aridavidpaul/status/1487476471866269699
+https://twitter.com/aridavidpaul/status/1487476471866269699
+* Like everyone else was looking for a blow-off top rather than uneven distribution, but believes we are now in a "mild winter."
+ 
+Ark Invest
+https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK_BigIdeas2022.pdf
+* Long term bullish, predicts $50T crypto market cap, >$1M BTC, >$1
+
+
+#### US Regulatory threats
+* [Urgent Considerations of Impact on Blockchain/DeFi of the SEC's Proposed Regulation ATS Amendment](https://lexnode.substack.com/p/urgent-considerations-of-impact-on?justPublished=true)
+* [New bill would hand Treasury blank check to ban crypto at exchanges](https://www.coincenter.org/new-bill-would-hand-treasury-blank-check-to-ban-crypto-at-exchanges/)
+* [White House Wants Crypto Rules as a Matter of National Security](https://www.barrons.com/articles/white-house-executive-action-regulate-cryptos-national-security-51643312454)
 
 ### Metrics
 * [BTC Open Interest](https://coinalyze.net/bitcoin/open-interest/)
 * [ETH Long v Shorts](https://datamish.com/ethusd/360d)
 * [Bitcoin MVRV Z-Score](https://www.lookintobitcoin.com/charts/mvrv-zscore/)
 * [Bitcoin RUPL](https://www.lookintobitcoin.com/charts/relative-unrealized-profit--loss/)
-
-
-### US Regulatory threats
-* [Urgent Considerations of Impact on Blockchain/DeFi of the SEC's Proposed Regulation ATS Amendment](https://lexnode.substack.com/p/urgent-considerations-of-impact-on?justPublished=true)
-* [New bill would hand Treasury blank check to ban crypto at exchanges](https://www.coincenter.org/new-bill-would-hand-treasury-blank-check-to-ban-crypto-at-exchanges/)
-* [White House Wants Crypto Rules as a Matter of National Security](https://www.barrons.com/articles/white-house-executive-action-regulate-cryptos-national-security-51643312454)
+* [Bitcoin RHOLD Ratio](https://www.lookintobitcoin.com/charts/rhodl-ratio/)
+* [Bitcoin Fear and Greed Index](https://www.lookintobitcoin.com/charts/bitcoin-fear-and-greed-index/)
 
 ## Plays
-My core holding remains ETH (70%+); I have about 5-10% hedged out in pure stables and am otherwise in positions/bets I'm happy to hold through potential cryptowinter
+My core holding remains ETH (70%+); I have about 5-10% hedged out in pure stables and am otherwise in positions/bets I'm happy to hold through potential cryptowinter.
 
 ### Theses
   * Strong L1/L2s: ATOM eco, AVAX, MATIC, METIS, NEAR/AURORA
