@@ -23,8 +23,7 @@ https://twitter.com/aridavidpaul/status/1487476471866269699
  
 Ark Invest
 https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK_BigIdeas2022.pdf
-* Long term bullish, predicts $50T crypto market cap, >$1M BTC, >$1
-
+* Long term bullish, lays out thesis for $50T crypto market cap, >$1M BTC, $200K ETH in 2030. I mean, I wouldn't complain
 
 #### US Regulatory threats
 * [Urgent Considerations of Impact on Blockchain/DeFi of the SEC's Proposed Regulation ATS Amendment](https://lexnode.substack.com/p/urgent-considerations-of-impact-on?justPublished=true)
@@ -50,6 +49,7 @@ My core holding remains ETH (70%+); I have about 5-10% hedged out in pure stable
 ### Abandoned
 * Dani Coins: mostly exited SPELL (it should survive, but took a small L to limit exposure). ICE should should survive as well - I'm actually more bearish on the project as a whole but have such a small position that's so far underwater it's not worth liquidating
 	* Latest: https://twitter.com/squirrelcrypto/status/1487474897584545796
+	* https://twitter.com/JackNiewold/status/1487510327570972674
 
 ### Ethereum
 Don't play here w/ <$10K+ or fees will kill you. FXS and Uniswap fees can be $200+/tx 
