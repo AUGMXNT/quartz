@@ -21,7 +21,9 @@ Ari Paul
 
 ### Metrics
 * [BTC Open Interest](https://coinalyze.net/bitcoin/open-interest/)
-* []
+* [ETH Long v Shorts](https://datamish.com/ethusd/360d)
+* [Bitcoin MVRV Z-Score](https://www.lookintobitcoin.com/charts/mvrv-zscore/)
+* [Bitcoin RUPL](https://www.lookintobitcoin.com/charts/relative-unrealized-profit--loss/)
 
 
 ### US Regulatory threats
