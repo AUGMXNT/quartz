@@ -64,6 +64,7 @@ Don't play here w/ <$10K+ or fees will kill you. FXS and Uniswap fees can be $20
 
 ### Arbitrum
 * I've done well with farming [DPX/rDPX](https://app.dopex.io/farms) and have been making great monthly returns with deposits in the [ETH SSOV](https://app.dopex.io/ssov/manage/ETH)
+	* Understanding SSOVs: https://twitter.com/ZCKRMNDPX/status/1487527984470937604
 * GMX is also [paying decent returns on GLP](https://gmx.io/earn) for some lower-volatility farming, also available on Avalanche
 
 ### Polygon
