@@ -2,18 +2,27 @@
 title: "2022-02 Outlook"
 ---
 
-## Mood: Bearish, Waiting for Capitulation
+## Personal Outlook: Cautiously Bearish, Waiting for Capitulation
 
-If you're long-term bullish and not leveraged, just sit tight, nothing to do except potentially buy a capitulation. Since Nov have been consolidating to high conviction plays, but now is the time to protect downside, potentially to hedge if overexposed. Despite relief rallies, I'm waiting for capitulation (or breaking the bear market resistance and holding support) before "buying the dip"/declaring game on:
+If you're holding long-term and not over-leveraged, just sit tight, nothing to do except potentially buy a capitulation. Since Nov I have been consolidating to high conviction plays, and with the past week's weakness/volatility, have looked to do some hedging for downside protection. Despite relief rallies, I'm waiting for capitulation (or breaking the bear market resistance and holding support) before "buying the dip"/declaring game on:
 * OI back down significantly, maybe 1 more shakeout? https://coinalyze.net/bitcoin/open-interest/ ; Long/Short ratio: https://coinalyze.net/bitcoin/open-interest/
+* Of course no one can predict the market. My personal feeling is we're looking more at a Summer 2020 situation than 2018-2019 type thing, but who knows
 
 ### Factors:
 * Bad macro (FOMC, rates)
-* Geo-risk (WW3)
+* Geo-risk (Russia/Ukraine)
 * Retail bad (Collapse of rebase tokens, Dani/Quadriga scandal, MIM/UST depeg risk)
 
 Reading the market: https://cryptohayes.medium.com/
 * Arthur correctly called this correction so [his latest article](https://cryptohayes.medium.com/bottomless-29160a0156cd) is absolutely worth paying attention to. He's looking to see if there's a bounce at 28.5K BTC, 1.7K ETH - if it doesn't, look for a retest of last ATHs (20K BTC, 1.4K ETH)
+
+Ari Paul
+* https://twitter.com/aridavidpaul/status/1487476471866269699
+
+### Metrics
+* [BTC Open Interest](https://coinalyze.net/bitcoin/open-interest/)
+* []
+
 
 ### US Regulatory threats
 * [Urgent Considerations of Impact on Blockchain/DeFi of the SEC's Proposed Regulation ATS Amendment](https://lexnode.substack.com/p/urgent-considerations-of-impact-on?justPublished=true)
