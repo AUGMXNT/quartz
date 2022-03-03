@@ -14,3 +14,9 @@ https://github.com/sunflower-land/sunflower-land
 * https://www.reddit.com/r/0xPolygon/comments/ry46k8/clearing_some_fud_around_sunflower_game_assets/
 * https://www.reddit.com/r/0xPolygon/comments/rz29cx/the_sunflower_farm_hack_explained/
 * https://www.reddit.com/r/0xPolygon/comments/rz7wg1/a_note_from_the_creator_of_sunflower_farmers/
+
+
+
+ve Tokenomics
+https://andrecronje.medium.com/ve-3-3-44466eaa088b
+see also: https://andrecronje.medium.com/solidly-feature-updates-and-launch-date-97be7e50e282
