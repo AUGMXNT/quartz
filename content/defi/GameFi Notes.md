@@ -49,6 +49,8 @@ https://twitter.com/Gojo_Crypto/status/1498100333402378241
 https://twitter.com/0xGokek/status/1498082102176194561
 
 Ukraine Crypto Donations
+https://www.elliptic.co/blog/live-updates-millions-in-crypto-crowdfunded-for-the-ukrainian-military
+https://www.forbes.com/sites/jonathanponciano/2022/03/02/crypto-donations-to-ukraine-top-52-million-as-funds-pour-in-from-bitcoin-ether-polkadot-and-nfts/?sh=7ba1597f74e5
 https://dune.xyz/msilb7/Ukraine-Crypto-Donations
 https://twitter.com/NateAlexNFT/status/1499060706624294916
 https://twitter.com/mugatu_eth/status/1499079381800697867
