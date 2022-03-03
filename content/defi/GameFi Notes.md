@@ -47,3 +47,8 @@ https://twitter.com/traderjoe_xyz/status/1497865657035202562
 https://traderjoe-xyz.medium.com/bulletin-board-february-27th-99677777189
 https://twitter.com/Gojo_Crypto/status/1498100333402378241
 https://twitter.com/0xGokek/status/1498082102176194561
+
+Ukraine Crypto Donations
+https://dune.xyz/msilb7/Ukraine-Crypto-Donations
+https://twitter.com/NateAlexNFT/status/1499060706624294916
+https://twitter.com/mugatu_eth/status/1499079381800697867
