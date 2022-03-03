@@ -28,6 +28,9 @@ https://twitter.com/Gojo_Crypto/status/1498050108541308928
 The Sandbox + Square Enix, Dungeon Siege
 https://sandboxgame.medium.com/the-sandbox-and-square-enix-team-up-to-bring-dungeon-siege-rpg-experiences-to-the-metaverse-c5029bb13bd4
 
+Pixelmon lol
+https://twitter.com/WillPapper/status/1497656896811008002
+
 Matreshka Premium
 https://twitter.com/defiprime/status/1498513577677709312
 
@@ -43,3 +46,4 @@ sJOE
 https://twitter.com/traderjoe_xyz/status/1497865657035202562
 https://traderjoe-xyz.medium.com/bulletin-board-february-27th-99677777189
 https://twitter.com/Gojo_Crypto/status/1498100333402378241
+https://twitter.com/0xGokek/status/1498082102176194561
