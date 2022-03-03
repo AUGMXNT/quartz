@@ -24,6 +24,9 @@ https://twitter.com/Gojo_Crypto/status/1498402747477110787
 https://twitter.com/Gojo_Crypto/status/1498086228461113345
 https://twitter.com/Gojo_Crypto/status/1498050108541308928
 
+
+
+
 ve Tokenomics
 https://andrecronje.medium.com/ve-3-3-44466eaa088b
 see also: https://andrecronje.medium.com/solidly-feature-updates-and-launch-date-97be7e50e282
