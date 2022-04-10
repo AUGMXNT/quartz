@@ -1,4 +1,14 @@
 name: AUGMXNT
 enableToc: true
-description: Public notes from AUGMXNT
-page_title: AUGMXNT PKB
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+description:
+  Semi-Public notes from AUGMXNT
+page_title:
+  "AUGMXNT PKB"
+links:
+  - link_name: Twitter
+    link: https://twitter.com/AUGMXNT
+  - link_name: Github
+    link: https://github.com/AUGMXNT
