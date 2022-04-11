@@ -2,7 +2,7 @@ name: AUGMXNT
 enableToc: true
 openToc: true
 enableLinkPreview: true
-enableLatex: true
+enableLatex: false
 description:
   Semi-Public notes from AUGMXNT
 page_title:
